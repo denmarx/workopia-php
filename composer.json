@@ -1,0 +1,16 @@
+{
+  "name": "denmarx/workopia-php",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Dennis Marx",
+      "email": "dennis.marx93@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
